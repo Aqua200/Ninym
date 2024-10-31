@@ -66,6 +66,20 @@ ESCRIBE O COPEA LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ---------
 
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
+
+
+- Canal Oficial Del Bot
+
+* <a href="https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+- Grupo oficial del bot
+
+* <a href="https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
+
+
 ## `▢ AGRADECIMIENTOS RESPECTIVOS` 
 # Agradecemos por el código usado para el bot🌸
 <a href="https://github.com/ianalejandrook15x"><img src="https://github.com/ianalejandrook15x.png" width="100" height="100" alt="ianalejandrook15x"/></a>
