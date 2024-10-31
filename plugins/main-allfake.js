@@ -32,17 +32,17 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/543876639332'
+global.creador = 'Wa.me/526645330556'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/543876577197'
-global.namechannel = 'Tҽαɱ Cԋαɳɳҽʅ ιαɳ 🌸 IαɳOϝƈ'
-global.namechannel2 = 'Tҽαɱ Cԋαɳɳҽʅ ιαɳ 🌸 IαɳOϝƈ'
-global.namegrupo = 'シ︎ 𝗜𝗮𝗻𝗕𝗼𝘁-𝗠𝗗 🌸 𝗠𝘂𝗹𝘁𝗶-𝗕𝗢𝗧𝗦'
-global.namecomu = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗜𝗮𝗻 ✯』'
-global.namecomu2 = '☁ CorinPlus Host'
-global.colab1 = '°•✮•°fαитαѕтι¢ ωσяℓ∂ σf αиιмє࿐ཽ༵'
-global.colab2 = '⋆⁺₊⋆ ☾⋆⁺₊⋆ 𝔸ᴍ𝕒ɴᴛᴇs ᴅᴇ ᴛᴏᴅ𝗼 Tɪᴘ𝗼 ᴅᴇ Mᴜsɪᴄ𝕒 ⋆⁺₊⋆ ☾⋆⁺₊⋆'
-global.colab3 = 'IAN-MoDe'
+global.asistencia = 'Wa.me/526645330556'
+global.namechannel = '𝐍𝐢𝐧𝐲𝐦🌸'
+global.namechannel2 = '𝐍𝐢𝐧𝐲𝐦🌸'
+global.namegrupo = '𝐍𝐢𝐧𝐲𝐦🌸'
+global.namecomu = '𝐍𝐢𝐧𝐲𝐦🌸'
+global.namecomu2 = '𝐍𝐢𝐧𝐲𝐦🌸'
+global.colab1 = ''
+global.colab2 = ''
+global.colab3 = ''
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
@@ -50,7 +50,7 @@ global.done = '✅'
 global.error = '✖️'
 
 //Emojis determinado de Ian
-global.emoji = '🚩'
+global.emoji = '❤️'
 global.emoji2 = '🌸'
 global.emoji3 = '✨️'
 global.emoji4 = '🍭'
@@ -63,13 +63,13 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VajkZ6blXnlwPZmbuH1u'  
-var git = 'https://github.com/ianalejandrook15x' 
-var youtube = 'https://www.youtube.com/@ianalejandrook14' 
-var github = 'https://github.com/ianalejandrook15x/ianxdd' 
-var facebook = 'https://www.facebook.com/ianalejandrook13?mibextid=ZbWKwL' 
-let tiktok = 'https://tiktok.com/@ian.ian271'
-let correo = 'sm.iam1836@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'  
+var git = '' 
+var youtube = '' 
+var github = '' 
+var facebook = '' 
+let tiktok = ''
+let correo = ''
 
 global.redes = [canal, git, youtube, github, facebook, tiktok, correo].getRandom()
 
@@ -98,18 +98,18 @@ global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318758721861@newsletter', newsletterName: "Tҽαɱ Cԋαɳɳҽʅ ιαɳ 🌸 IαɳOϝƈ", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363344959608845@newsletter', newsletterName: " 𝐍𝐢𝐧𝐲𝐦🌸", serverMessageId: -1 }
 }}, { quoted: m }
   
 global.icono = [ 
-'https://qu.ax/PqLcf.jpg',
-'https://qu.ax/NblnX.jpg',
-'https://qu.ax/bavxU.jpg',
-'https://qu.ax/SljFc.jpg',
-'https://qu.ax/NblnX.jpg',
-'https://qu.ax/PqLcf.jpg',
+'https://qu.ax/CaRK.jpeg',
+'https://qu.ax/UrhBY.jpg',
+'https://qu.ax/MhAuj.jpg',
+'https://qu.ax/jOPBZ.png',
+'https://qu.ax/Xctu.jpg',
+'https://qu.ax/hzKFq.jpg',
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363318758721861@newsletter", serverMessageId: 100, newsletterName: 'Tҽαɱ Cԋαɳɳҽʅ ιαɳ 🌸 IαɳOϝƈ', }, externalAdReply: { showAdAttribution: true, title: packname, body: '🌸 ¡Super Bot De WhatsApp!', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363344959608845@newsletter", serverMessageId: 100, newsletterName: '𝐍𝐢𝐧𝐲𝐦🌸', }, externalAdReply: { showAdAttribution: true, title: packname, body: '🌸 ¡Super Bot De WhatsApp!', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
