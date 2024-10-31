@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5493876639332', 'ιαɳαʅҽʝαɳԃɾσσƙ15x', true],
-   ['5493876639332', 'Iαɳαʅҽʝαɳԃɾσσƙ15x', true],
+   ['', '𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍', true],
+   ['', '𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍', true],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -28,12 +28,12 @@ global.languaje = 'Español'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【 เαɳ ɓσƭ - MƊ 】'
-global.botname = 'Iαɳ Bσƚ - MD'
-global.wm = 'Bσƚ ιαɳ MD - ιαɳαʅҽʝαɳԃɾσσƙ15x'
-global.author = 'ιαɳαʅҽʝαɳԃɾσσƙ15x 🌸'
-global.dev = 'Pσɯҽɾҽԃ Bყ Iαɳ 🌙'
-global.textbot = 'Iαɳ Bσƚ : Iαɳαʅҽʝαɳԃɾσσƙ15x'
+global.packname = '𝐍𝐢𝐧𝐲𝐦🤍'
+global.botname = '𝐍𝐢𝐧𝐲𝐦🤍'
+global.wm = '𝐍𝐢𝐧𝐲𝐦🤍 - 𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍'
+global.author = '𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍'
+global.dev = '𝐍𝐢𝐧𝐲𝐦🤍'
+global.textbot = '𝐍𝐢𝐧𝐲𝐦🤍 : 𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍'
 global.vs = '3.0.4'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -49,10 +49,10 @@ global.ianurl = fs.readFileSync('./storage/img/ianurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
-global.grupo2 = 'https://chat.whatsapp.com/JJGQs5aCsTsAsHbw752fBv'
-global.grupo3 = 'https://chat.whatsapp.com/G2bAsa8E11mLLitGxI0iUQ'
-global.channel = 'https://whatsapp.com/channel/0029VajkZ6bIXnlwPZmbuH1u'
+global.grupo = 'https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK'
+global.grupo2 = 'https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK'
+global.grupo3 = 'https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK'
+global.channel = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
