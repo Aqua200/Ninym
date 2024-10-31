@@ -9,9 +9,14 @@ let handler = async (m, { conn, command, usedPrefix }) => {
     • 
     ☁ *Rol:* 𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍
     ☁ *Número:* ${creador}
-    ☁ *GitHub:* https://github.com/Aqua200
+    ☁ *GitHub:* https://github.com/Aqua200/Ninym
     
-
+    ✨ *Colaboradores:*
+    
+    •
+    ☁ *Rol:* Colaborador
+    ☁ *Número:* 
+    ☁ *GitHub:* `
     await conn.sendFile(m.chat, icons, 'nino.jpg', staff.trim(), fkontak, true, {
     contextInfo: {
     'forwardingScore': 200,
