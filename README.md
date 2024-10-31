@@ -36,6 +36,7 @@ npm start
 ESCRIBE O COPEA LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd Ninym
 > npm start
+```
 
 ## `▢ AGRADECIMIENTOS RESPECTIVOS` 
 # Agrademos por el código usado para el bot ;)
