@@ -53,10 +53,10 @@ const defaultMenu = {
 
 \t𝐋 𝐈 𝐒 𝐓 𝐀  -  𝐃 𝐄  -  𝐂 𝐎 𝐌 𝐀 𝐍 𝐃 𝐎 𝐒 
 `.trimStart(),
-    header: ' ✨「*%category*」✨\n ',
-  body: '> 🌸>%cmd',
-  footer: '*─ׄ─ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ *\n',
-  after: `> ${dev}`,
+  header: '` *✨%category✨* `\n\n╔══❖•ೋ° ',
+  body: '🌸 *%cmd*\n',
+  footer: '╚══❖•ೋ°\n',
+  after: '',
 }
 
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
