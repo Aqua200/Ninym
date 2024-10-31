@@ -29,10 +29,10 @@ let tags = {
 const defaultMenu = {
   before: `*─ׄ─ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─*
 
-Hola *%name* soy *Ian*
+🌼𝐡𝐨𝐥𝐚 *%name* 𝐒𝐨𝐲 *𝐍𝐢𝐧𝐲𝐦🤍*
 
 ┏━━━━━━━━ CREADOR
-┃  ✿︎ ιαɳαʅҽʝαɳԃɾσσƙ15x
+┃      𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍
 ┗━━━━━━━━━━━━━━
 %readmore
 ┏━━━━━━━━ INFO - BOT
@@ -158,8 +158,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
 let urls = [
-"https://qu.ax/vnPMj.mp4",
-"https://qu.ax/vnPMj.mp4",
+"https://qu.ax/AKwwD.mp4",
+"https://qu.ax/AKwwD.mp4",
 ];
 let gifUrl = urls[Math.floor(Math.random() * urls.length)];
 await conn.sendMessage(m.chat, {video: {url: gifUrl}, gifPlayback: true, caption: text.trim(), mentions: [m.sender]}, {quoted: m});
