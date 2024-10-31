@@ -3,7 +3,7 @@
 
 > Bot en creación pronto se agregaran más cosas 
 
-- [x] Interacción con voz y texto
+- [ ] Interacción con voz y texto
 - [x] Configuración de grupo
 - [x] antidelete, antilink, antispam, etc
 - [x] Bienvenida personalizada
@@ -56,6 +56,15 @@ ESCRIBE O COPEA LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd Ninym
 > npm start
 ```
+---------
+
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contacto
+
+- Si tiene algún problema la bot contactame🌼
+
+* <a href="https://wa.me/526645330556"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
 
 ## `▢ AGRADECIMIENTOS RESPECTIVOS` 
 # Agradecemos por el código usado para el bot🌸
