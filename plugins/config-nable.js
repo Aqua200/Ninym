@@ -162,11 +162,10 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
         if (!(isAdmin || isOwner)) {
          global.dfail('admin', m, conn)
           throw false
-}}
-chat.antiPorn = isEnable          
-break
+            }}
+          chat.antiPorn = isEnable          
+          break
     
-
    case 'antidelete': 
      case 'antieliminar': 
      case 'delete':
