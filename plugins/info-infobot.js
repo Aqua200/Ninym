@@ -55,7 +55,7 @@ setTimeout(resolve, 1000)
 }
 let timestamp = speed()
 let latensi = speed() - timestamp
-let Ian = `╭─⬣「 *Info De IanBot* 」⬣\n`
+let Ian = `╭─⬣「 *Info De Ninym🌸* 」⬣\n`
 Ian += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
 Ian += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
 Ian += `│ 📦 *Total Plugins* : ${totalf}\n`
@@ -70,7 +70,7 @@ Ian += `│ 🚩 *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* 
 Ian += `│ 🌺 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
 Ian += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
 Ian += `╰─⬣\n\n`
-Ian += `╭─⬣「 *Chats De IanBot* 」⬣\n`
+Ian += `╭─⬣「 *Chats De Ninmy🌸* 」⬣\n`
 Ian += `│ 🧃 *${groupsIn.length}* Chats en Grupos\n`
 Ian += `│ 🌸 *${groupsIn.length}* Grupos Unidos\n`
 Ian += `│ 🍁 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
