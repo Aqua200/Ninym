@@ -1,4 +1,41 @@
+- ESCRIBE O COPEA LOS SIGUIENTES COMANDOS UNO POR UNO EN TERMUX:
+```bash
+cd && termux-setup-storage
+```
 
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+```
+
+```bash
+git clone https://github.com/Aqua200/Ninym.git && cd Ninym
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm update
+```
+
+```bash
+npm start
+```
+
+### `▢ ACTIVAR EN CASO DE DETENERSE EN TERMUX`
+```bash
+ESCRIBE O COPEA LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd Ninym
+> npm start
 
 ## `▢ AGRADECIMIENTOS RESPECTIVOS` 
 # Agrademos por el código usado para el bot ;)
