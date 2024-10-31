@@ -105,6 +105,8 @@ export async function handler(chatUpdate) {
                     chat.antiver = false
                 if (!('delete' in chat))
                     chat.delete = false
+                if (!('antiPorn' in chat)) 
+                    chat.antiPorn = true
                 if (!isNumber(chat.expired))
                     chat.expired = 0
             } else
@@ -120,6 +122,7 @@ export async function handler(chatUpdate) {
                     antiver: false,
                     modohorny: false, 
                     reaction: false,
+                    antiPorn: true,
                     expired: 0, 
                 }
             var settings = global.db.data.settings[this.user.jid]
