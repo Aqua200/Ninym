@@ -30,6 +30,9 @@ npm update
 ```bash
 npm start
 ```
+<!-- RAINBOW LINE BOT -->
+
+<img src="https://github.com/Aqua200/Ninym.git" width="100%">
 
 ### `▢ ACTIVAR EN CASO DE DETENERSE EN TERMUX`
 ```bash
