@@ -7,16 +7,11 @@ let handler = async (m, { conn, command, usedPrefix }) => {
     👑 *Pɾσριҽƚαɾισ:*
     
     • 
-    ☁ *Rol:* ιαɳαʅҽʝαɳԃɾσσƙ15x
+    ☁ *Rol:* 𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍
     ☁ *Número:* ${creador}
-    ☁ *GitHub:* https://github.com/ianalejandrook15x
+    ☁ *GitHub:* https://github.com/Aqua200
     
-    🍄  *Colaboradores:*
-    
-    • Dev-Diego
-    ☁ *Rol:* Colaborador
-    ☁ *Número:* Wa.me/573012482597
-    ☁ *GitHub:* https://github.com/Dev-Diego`
+
     await conn.sendFile(m.chat, icons, 'nino.jpg', staff.trim(), fkontak, true, {
     contextInfo: {
     'forwardingScore': 200,
