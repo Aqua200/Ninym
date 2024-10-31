@@ -1,3 +1,22 @@
+
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Características
+
+> Bot en creación pronto se agregaran más cosas 
+
+- [x] Interacción con voz y texto
+- [x] Configuración de grupo
+- [x] antidelete, antilink, antispam, etc
+- [x] Bienvenida personalizada
+- [x] Juegos, tictactoe, mate, etc
+- [ ] Chatbot (simsimi)
+- [x] Crear sticker de image/video/gif/url
+- [x] SubBot (Jadibot)
+- [ ] Juego RPG
+- [ ] Descarga de música y video de YT
+- [ ] Otros
+
+---------
+
 - ESCRIBE O COPEA LOS SIGUIENTES COMANDOS UNO POR UNO EN TERMUX:
 ```bash
 cd && termux-setup-storage
