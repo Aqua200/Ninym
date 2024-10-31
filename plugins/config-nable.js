@@ -264,6 +264,7 @@ ${usedPrefix + command} subbots
 ${usedPrefix + command} status
 ${usedPrefix + command} restrict
 ${usedPrefix + command} autoread
+${usedPrefix + command} antiporn
 
 *🌸 Funciones de grupos*
 
