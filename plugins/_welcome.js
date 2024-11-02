@@ -12,11 +12,11 @@ await conn.sendLuffy(m.chat, packname, textbot, welcome, img, img, redes, fkonta
   }
 
   if (chat.welcome && m.messageStubType == 28) {
-    let bye = ` 《🌸》 𝙽𝚒𝚗𝚢𝚖🌸 \n「 Aԃισʂ 」\n「 @${m.messageStubParameters[0].split`@`[0]} 」\n「 Sҽ ϝυҽ 」\n「 Nυɳƈα ƚҽ ϙυιʂιɱσʂ αϙυι 」\n\n  ιαɳαʅҽʝαɳԃɾσσƙ15x`
+    let bye = ` 《🌸》 𝙽𝚒𝚗𝚢𝚖🌸 \n🍃̶᪶⃕⊹ ‧₊ 《•𝙰𝚍𝚒𝚘𝚜•》🍃\n「 @${m.messageStubParameters[0].split`@`[0]} 」\n🍃̶᪶⃕⊹ ‧₊ 《•𝚂𝚎 𝚏𝚞𝚎•》🍃\n🍃̶᪶⃕⊹ ‧₊ 《•𝚅𝚞𝚎𝚕𝚟𝚊 𝚙𝚛𝚘𝚗𝚝𝚘•》🍃\n\n  𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍`
 await conn.sendLuffy(m.chat, packname, textbot, bye, img, img, redes, fkontak)
   }
 
   if (chat.welcome && m.messageStubType == 32) {
-    let kick = ` 《🌸》 𝙽𝚒𝚗𝚢𝚖🌸 \n「 Aԃισʂ 」\n「 @${m.messageStubParameters[0].split`@`[0]} 」\n「 Sҽ ϝυҽ 」\n「 Nυɳƈα ƚҽ ϙυιʂιɱσʂ αϙυι 」\n\n  ιαɳαʅҽʝαɳԃɾσσƙ15x`
+    let kick = ` 《🌸》 𝙽𝚒𝚗𝚢𝚖🌸 \n🍃̶᪶⃕⊹ ‧₊ 《•𝙰𝚍𝚒𝚘𝚜•》🍃\n「 @${m.messageStubParameters[0].split`@`[0]} 」\n🍃̶᪶⃕⊹ ‧₊ 《•𝚂𝚎 𝚏𝚞𝚎•》🍃\n🍃̶᪶⃕⊹ ‧₊ 《•𝙰𝚍𝚒𝚘𝚜 𝚊𝚙𝚝𝚘/𝚊 𝚙𝚊𝚛𝚊 𝚎𝚜𝚝𝚊𝚛 𝚎𝚗 𝚎𝚜𝚝𝚎 𝚐𝚛𝚞𝚙𝚘•》🍃\n\n  𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍`
 await conn.sendLuffy(m.chat, packname, textbot, kick, img, img, redes, fkontak)
 }}
